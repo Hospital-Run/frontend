@@ -1,7 +1,11 @@
 {
-  "name": "react-boilerplate",
-  "version": "3.7.0",
-  "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+  "name": "@hospitalrun/frontend",
+  "version": "0.0.0",
+  "description": "React front end for HospitalRun",
+  "files": [
+    "build",
+    "index"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/react-boilerplate/react-boilerplate.git"
@@ -132,7 +136,7 @@
     "file-loader": "2.0.0",
     "html-loader": "0.5.5",
     "html-webpack-plugin": "3.2.0",
-    "image-webpack-loader": "4.4.0",
+    "image-webpack-loader": "^4.6.0",
     "imports-loader": "0.8.0",
     "jest-cli": "23.6.0",
     "jest-styled-components": "6.2.2",
