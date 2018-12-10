@@ -1,11 +1,7 @@
 {
-  "name": "@hospitalrun/frontend",
+  "name": "@hospital-run/frontend",
   "version": "0.0.0",
   "description": "React front end for HospitalRun",
-  "files": [
-    "build",
-    "index"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/react-boilerplate/react-boilerplate.git"
