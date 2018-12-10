@@ -1,6 +1,6 @@
 {
   "name": "@hospital-run/frontend",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React front end for HospitalRun",
   "repository": {
     "type": "git",
